@@ -11,3 +11,5 @@ A fast non cryptographic hasher implementation from rustc
 """
 
 keywords = [ "hash" ]
+
+repository = "https://github.com/jorisgio/fnvhash.git"
