@@ -1,0 +1,13 @@
+[package]
+
+name = "fnvhash"
+version = "0.0.1"
+authors = ["Joris Giovannangeli <joris@giovannangeli.fr>"]
+
+license = "MIT/Apache-2.0"
+
+description = """
+A fast non cryptographic hasher implementation from rustc
+"""
+
+keywords = [ "hash" ]
